@@ -5,6 +5,7 @@ go 1.23.2
 require (
 	github.com/BurntSushi/toml v1.2.1 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/gorilla/mux v1.8.1
 	golang.org/x/exp/typeparams v0.0.0-20221212164502-fae10dda9338 // indirect
 	golang.org/x/mod v0.20.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
